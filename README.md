@@ -92,6 +92,16 @@ A powerful forensic tool to detect cloaking, blackhat SEO tricks, malware-laced 
 
 ---
 
+## ⛓️ Usage
+
+```
+git clone https://github.com/LvL23HT/Cloaking-SEO-Poison-Scanner.git
+cd Cloaking-SEO-Poison-Scanner
+python3 cloaking_scanner.py
+```
+
+---
+
 ## 🔐 VirusTotal API
 
 To enable VT integration, export your API key:
@@ -104,7 +114,7 @@ If not set, the tool will skip VT checks.
 
 ---
 
-## Screeshots
+## 🌉 Screeshots
 
 ![Captura-de-pantalla-2025-05-23-011157.png](https://i.postimg.cc/FKVP8RpJ/Captura-de-pantalla-2025-05-23-011157.png)
 ![2025-05-23-011249.png](https://i.postimg.cc/Bv0YmDT0/Captura-de-pantalla-2025-05-23-011249.png)

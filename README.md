@@ -97,6 +97,7 @@ A powerful forensic tool to detect cloaking, blackhat SEO tricks, malware-laced 
 ```
 git clone https://github.com/LvL23HT/Cloaking-SEO-Poison-Scanner.git
 cd Cloaking-SEO-Poison-Scanner
+pip3 install -r requirements.txt
 python3 cloaking_scanner.py
 ```
 
